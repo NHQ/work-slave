@@ -1,0 +1,20 @@
+{
+  "name": "work-slave",
+  "version": "0.0.4",
+  "description": "turn string into html5 web workers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:NHQ/work-slave.git"
+  },
+  "keywords": [
+    "web",
+    "workers"
+  ],
+  "author": "johnny",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
