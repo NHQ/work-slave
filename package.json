@@ -1,6 +1,6 @@
 {
   "name": "work-slave",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "turn string into html5 web workers",
   "main": "index.js",
   "scripts": {
